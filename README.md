@@ -1,7 +1,7 @@
 # Base-de-datos-Paqueteria
 Creada por: Javier Emilio Salas Catonga  
 
-La base datos fue creada a partir del diagrama Entidad-Relacion y del Diagrama de Clases Relacional que se encuetran en este repositorio  
+La base datos fue creada a partir del diagrama Entidad-Relacion y del Diagrama de Clases Relacional (de propia autoría) que se encuetran en este repositorio.
 
 
 
