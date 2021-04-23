@@ -32,4 +32,4 @@ CREATE DATABASE nombre_de_la_base;
 9)insercion7.sql  
 9)CreaFunciones.sql  
 
-contacto: javieremiliooo@gmail.com
+Contacto: javieremiliooo@gmail.com
